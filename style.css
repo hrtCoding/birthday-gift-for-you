@@ -3,6 +3,7 @@
 
 
   img{
+    align-items:center;
   width: 100px !important;
   height: 100% !important;
 }
