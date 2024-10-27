@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
 
 
-
 .banner{
   display: flex;
   align-items: center;
@@ -15,7 +14,7 @@
 }
 
 img{
-  width: 100% !important;
+  width: 100px !important;
   height: 100% !important;
 }
 .paper {
